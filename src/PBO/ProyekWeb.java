@@ -1,7 +1,4 @@
-/**
- * Class ProyekWeb - turunan dari Proyek (Inheritance)
- * Perhitungan biaya berbeda dari jenis proyek lain (Polymorphism)
- */
+
 public class ProyekWeb extends Proyek {
     private int jumlahHalaman;
     private boolean adaFiturLogin;

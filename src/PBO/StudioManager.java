@@ -1,6 +1,4 @@
-/**
- * Class StudioManager - mengelola kumpulan objek Proyek menggunakan Array
- */
+
 public class StudioManager {
     private Proyek[] daftarProyek; // Array of object
     private int jumlahProyek;

@@ -1,7 +1,4 @@
-/**
- * Class ProyekPoster - turunan dari Proyek (Inheritance)
- * Menggunakan Seleksi (switch) untuk menentukan pengali biaya berdasarkan kerumitan
- */
+
 public class ProyekPoster extends Proyek {
     private int jumlahDesain;
     private String tingkatKerumitan; // "Simpel", "Sedang", "Rumit"

@@ -1,7 +1,4 @@
-/**
- * Class abstract Proyek - parent class untuk semua jenis proyek digital.
- * Mendemonstrasikan: Class, Atribut, Constructor, Accessor, Mutator, Encapsulation
- */
+
 public abstract class Proyek {
     // Atribut (private -> Encapsulation)
     private String kodeProyek;

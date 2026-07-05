@@ -1,6 +1,4 @@
-/**
- * Class ProyekVideo - turunan dari Proyek (Inheritance)
- */
+
 public class ProyekVideo extends Proyek {
     private int durasiMenit;
     private boolean adaAnimasi;

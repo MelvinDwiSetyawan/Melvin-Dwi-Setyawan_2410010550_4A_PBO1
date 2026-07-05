@@ -1,10 +1,5 @@
 import java.util.Scanner;
 
-/**
- * Class Main - program utama dengan menu interaktif.
- * Mendemonstrasikan: IO Sederhana (Scanner), Seleksi (switch),
- * Perulangan (do-while), Error Handling (try-catch)
- */
 public class Main {
     private static Scanner scanner = new Scanner(System.in);
     private static StudioManager manager = new StudioManager();
